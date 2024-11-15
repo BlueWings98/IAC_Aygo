@@ -31,15 +31,15 @@ A continuación, se presentan las capturas de pantalla obtenidas durante el proc
 1.  **Stack Generado**
 
 
-    Esta imagen muestra el stack creado en la cuenta de AWS, evidenciando la correcta implementación de los recursos.
-    ![Evidencia 1](Evidencia1.png)
+Esta imagen muestra el stack creado en la cuenta de AWS, evidenciando la correcta implementación de los recursos.
+    ![Evidencia 1](Evidence/Evidencia1.png)
 
 
 2.  **Función Lambda: `HelloWorldFunction`**
 
 
-    Aquí se observa la función Lambda desplegada y configurada correctamente, lista para ser invocada.
-    ![Evidencia2](Evidencia2.png)
+Aquí se observa la función Lambda desplegada y configurada correctamente, lista para ser invocada.
+    ![Evidencia2](Evidence/Evidencia2.png)
 
 ## Reflexión de la actividad
 Esta actividad presentó varios desafios.
